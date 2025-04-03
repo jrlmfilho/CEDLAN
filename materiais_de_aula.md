@@ -53,3 +53,9 @@ https://youtu.be/mhj6FKHmGr8 Aula de MRU
 Fazer um mapa mental é uma ótima forma de se estudar. Abaixo eu achei um vídeo rápido e fácil de fazer mapas mentais(lembrando que esse canal no youtube em que peguei esse vídeo não é meu):
 
 https://www.youtube.com/watch?v=ViYNK0Kpay8 (Tutorial de como fazer um mapa mental)
+
+
+## Comunicação 
+### Email:
+jose.filho49@edu.se.df.gov.br
+
