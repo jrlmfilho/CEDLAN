@@ -32,6 +32,7 @@ Aqui os alunos podem encontrar todo o material para as aulas.
 
 ## Material de estudo:
 vídeo aulas links:
+
 https://youtu.be/jsq1HQhpSWY (Estrutura da matéria)
 
 https://youtu.be/rT_PuT924go (Força elétrica)
