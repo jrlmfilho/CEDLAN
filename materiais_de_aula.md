@@ -34,19 +34,19 @@ Aqui os alunos podem encontrar todo o material para as aulas.
 vídeo aulas links:
 https://youtu.be/jsq1HQhpSWY (Estrutura da matéria)
 
-https://youtu.be/rT_PuT924go(Força elétrica)
+https://youtu.be/rT_PuT924go (Força elétrica)
 
-https://youtu.be/yJ29bYZgawM(Campos elétricos)
+https://youtu.be/yJ29bYZgawM (Campos elétricos)
 
-https://youtu.be/z5MkCtLAkEg(Trabalho e potencial elétrico)
+https://youtu.be/z5MkCtLAkEg (Trabalho e potencial elétrico)
 
-https://youtu.be/lJApG38DE7s(Capacitores)
+https://youtu.be/lJApG38DE7s (Capacitores)
 
-https://youtu.be/E1f-kw9BpgU(Vetores)
+https://youtu.be/E1f-kw9BpgU (Vetores)
 
-https://youtu.be/KzIvKoy8FrI(Capacitores 2)
+https://youtu.be/KzIvKoy8FrI (Capacitores 2)
 
-https://youtu.be/noSxLUAKK8s(Primeira e segunda lei de Ohm)
+https://youtu.be/noSxLUAKK8s (Primeira e segunda lei de Ohm)
 
 https://youtu.be/5taCf_dmcMA MRUV parte 1
 
