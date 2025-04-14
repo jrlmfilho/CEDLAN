@@ -21,7 +21,7 @@ Até 14/04 estarei postando a lista de exercícios.
 # 2° ano
 Aqui os alunos podem encontrar todo o material para as aulas.
 
-https://github.com/jrlmfilho/CEDLAN/blob/main/Conteudo1(termo).pdf(Fazer leitura)
+https://github.com/jrlmfilho/CEDLAN/blob/main/Conteudo1(termo).pdf (Fazer leitura)
 
 ## Lista de exercícios 1
 Até 14/04 estarei postando a lista de exercícios.
@@ -39,9 +39,9 @@ Aqui os alunos podem encontrar todo o material para as aulas.
 
 Assistam aos vídeos.
 
-https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica).pdf(Fazer leitura)
+https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica).pdf (Fazer leitura)
 
-https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica)parte2.pdf(Fazer leitura)
+https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica)parte2.pdf (Fazer leitura)
 
 ## Lista de exercícios 1
 
