@@ -2,9 +2,13 @@
 Informações e materiais para alunos do CEDLAN.
 # 1° ano
 Aqui os alunos podem encontrar todo o material para as aulas.
+
 Parte inicial 1: https://github.com/jrlmfilho/Escola/blob/main/conteudo_exercicios.pdf (Fazer leitura)
+
 Parte2: https://github.com/jrlmfilho/Escola/blob/main/conteudo3_exercicios.pdf (Fazer leitura)
+
 Façam a leitura dos capítulos e assistam aos vídeos.
+
 ## Lista de exercícios 1
 Até 14/04 estarei postando a lista de exercícios.
 
@@ -32,13 +36,19 @@ Até 14/04 estarei postando a lista de exercícios.
 
 # 3° ano
 Aqui os alunos podem encontrar todo o material para as aulas.
+
 Assistam aos vídeos.
+
 https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica).pdf(Fazer leitura)
+
 https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica)parte2.pdf(Fazer leitura)
 
 ## Lista de exercícios 1
+
 Até 14/04 estarei postando a lista de exercícios.
+
 ## Material de estudo:
+
 vídeo aulas links:
 
 https://youtu.be/jsq1HQhpSWY (Estrutura da matéria)
