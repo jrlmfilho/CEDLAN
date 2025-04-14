@@ -33,6 +33,8 @@ Até 14/04 estarei postando a lista de exercícios.
 # 3° ano
 Aqui os alunos podem encontrar todo o material para as aulas.
 Assistam aos vídeos.
+https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica).pdf(Fazer leitura)
+https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica)parte2.pdf(Fazer leitura)
 
 ## Lista de exercícios 1
 Até 14/04 estarei postando a lista de exercícios.
