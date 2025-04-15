@@ -11,7 +11,7 @@ Façam a leitura dos capítulos e assistam aos vídeos.
 
 ## Lista de exercícios 1 
 
-(https://github.com/jrlmfilho/CEDLAN/blob/main/Lista1.pdf)
+https://github.com/jrlmfilho/CEDLAN/blob/main/Lista1.pdf (Solucionar essa lista até o dia 24/04)
 
 
 
