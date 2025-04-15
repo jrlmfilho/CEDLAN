@@ -9,8 +9,9 @@ Parte2: https://github.com/jrlmfilho/Escola/blob/main/conteudo3_exercicios.pdf (
 
 Façam a leitura dos capítulos e assistam aos vídeos.
 
-## Lista de exercícios 1
-Até 14/04 estarei postando a lista de exercícios.
+## Lista de exercícios 1 
+
+(https://github.com/jrlmfilho/CEDLAN/blob/main/Lista1.pdf)
 
 
 
@@ -24,7 +25,7 @@ Aqui os alunos podem encontrar todo o material para as aulas.
 https://github.com/jrlmfilho/CEDLAN/blob/main/Conteudo1(termo).pdf (Fazer leitura)
 
 ## Lista de exercícios 1
-Até 14/04 estarei postando a lista de exercícios.
+Ainda essa semana vou fazer a lista.
 
 
 
@@ -45,7 +46,7 @@ https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica)parte2.pd
 
 ## Lista de exercícios 1
 
-Até 14/04 estarei postando a lista de exercícios.
+Ainda essa semana vou fazer a lista.
 
 ## Material de estudo:
 
