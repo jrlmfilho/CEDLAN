@@ -46,7 +46,7 @@ https://github.com/jrlmfilho/CEDLAN/blob/main/conteudo1(Eletroestatica)parte2.pd
 
 ## Lista de exercícios 1
 
-Ainda essa semana vou fazer a lista.
+https://github.com/jrlmfilho/CEDLAN/blob/main/Lista1_terc.pdf(Solucionar até 01/05)
 
 ## Material de estudo:
 
