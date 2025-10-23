@@ -25,8 +25,8 @@ Aqui os alunos podem encontrar todo o material para as aulas.
 https://github.com/jrlmfilho/CEDLAN/blob/main/Conteudo1(termo).pdf (Fazer leitura)
 
 ## Lista de exercícios 1
-https://github.com/jrlmfilho/CEDLAN/blob/main/LIsta1_segundo.pdf (Solucionar até 01/05)
-
+https://github.com/jrlmfilho/CEDLAN/blob/main/LIsta1_segundo.pdf
+https://github.com/jrlmfilho/CEDLAN/blob/main/Lista(Ondas).pdf
 
 
 
